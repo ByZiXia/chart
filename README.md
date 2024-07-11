@@ -14,4 +14,3 @@
 
 两种注射方式污染情况对比箱图，数值差距较大，加了断点，如下<br/>
 ![contamination-YY](https://github.com/ByZiXia/chart/assets/153195196/b4bbb546-2f55-4631-88cc-c66093bc6aea)
-![timenum_yy](https://github.com/ByZiXia/chart/assets/153195196/5c6991df-0a3b-4c60-92df-cf2a5e110433)
