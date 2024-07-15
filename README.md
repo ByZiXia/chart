@@ -11,6 +11,8 @@
 
 使用公式模拟计算误差率，这个是否有点花哨？如下<br/>
 ![formula__yy](https://github.com/ByZiXia/chart/assets/153195196/c037ec72-65be-4a35-af6a-815884f431e1)
+![image](https://github.com/user-attachments/assets/64299fc4-b89b-4cdd-9ea9-802bcc6d2904)
+
 
 两种注射方式污染情况对比箱图，数值差距较大，加了断点，如下<br/>
 ![contamination-YY](https://github.com/ByZiXia/chart/assets/153195196/b4bbb546-2f55-4631-88cc-c66093bc6aea)
